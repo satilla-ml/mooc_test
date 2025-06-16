@@ -1,3 +1,4 @@
+87a87cc1-809b-4206-a568-05a05ee93a06 sameas-name=mywebdav-http sameas-uuid=9f84be31-06ce-485b-929f-0a3641c87a4c type=httpalso url=https://polaris.imag.fr/arnaud.legrand/misc/mooc-rr2-gitannex-webdav-example timestamp=1750085606s
 9f84be31-06ce-485b-929f-0a3641c87a4c encryption=none name=mywebdav type=webdav url=https://sdrive.cnrs.fr/remote.php/dav/files/823381/mooc-rr2-gitannex-webdav-example/ timestamp=1750085606s
 cf932d0a-3c76-474b-a067-76ed5104616d sameas-name=myrsync-http sameas-uuid=ff9b1302-9763-45c2-b40b-55f7aaf68e16 type=httpalso url=https://polaris.imag.fr/arnaud.legrand/misc/mooc-rr2-gitannex-webdav-example timestamp=1750085493s
 ff9b1302-9763-45c2-b40b-55f7aaf68e16 encryption=none name=myrsync rsyncurl=karok:/home/polaris/alegrand/arnaud.legrand/misc/mooc-rr2-gitannex-webdav-example type=rsync timestamp=1750085493s
